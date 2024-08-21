@@ -17,8 +17,8 @@ Before you start, ensure that Flutter is installed on your machine. If you haven
 
 1. Open Terminal and Clone the repository:
     ```bash
-    git clone https://github.com/Rota-Meta/project-visual.git
-    cd project-visual
+    git clone https://github.com/Rota-Meta/project_visual.git
+    cd project_visual
     ```
 2. Install dependencies and check for updates:
     ```bash
