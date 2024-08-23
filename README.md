@@ -26,7 +26,7 @@ Before you start, ensure that Flutter is installed on your machine. If you haven
     flutter pub get
     flutter pub upgrade
     ```
-3. Starting Emulator:
+3. Starting Emulator(Before running the emulator, make sure that you created the emulator and disable the windows firewall and connection):
     ```bash
     flutter emulators
     flutter emulators --launch youremulatorID 
